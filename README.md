@@ -20,6 +20,9 @@ npm i
 ```
 
 3. Run the bot
+
+You must have nodejs installed before you can run anything with the node command. You can download nodejs [here.](https://nodejs.org/en/download/ "NodeJS download page")
+
 ```
 node bot.js
 ```

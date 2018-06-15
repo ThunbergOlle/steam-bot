@@ -1,7 +1,7 @@
 # steam-bot
 
 ### How to get it up and running?
-Before you can run the bot, you'll need the required node packages. (node modules).
+Before you can run the bot, you'll need the required packages. (node modules).
 
 But how do you install them? Don't worry, I'll show you.
 

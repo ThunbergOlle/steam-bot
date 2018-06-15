@@ -1,0 +1,12 @@
+{
+  "account": {
+    "username": "",
+    "password": "",
+    "sharedSecret": "",
+    "identitySecret" : ""
+  },
+  "bot": {
+    "displayName": "Bot #1",
+    "gamesPlayed": 440
+  }
+}

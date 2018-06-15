@@ -4,7 +4,7 @@
   "description": "Simple steam bot built with node.",
   "main": "bot.js",
   "scripts": {
-    "start": "bot.js"
+    "start": "node bot.js"
   },
   "keywords": [
     "Bot",

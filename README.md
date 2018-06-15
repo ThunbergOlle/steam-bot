@@ -10,7 +10,8 @@ But how do you install them? Don't worry, I'll show you.
 Find the donwloaded folder, place it somewhere new and extract the files.
 
 2. Edit the config.json to fit your needs.
-Add your bot's steam account details & style the bot's profile. 
+
+- Add your bot's steam account details & style the bot's profile. 
 
 3. Open a command prompt & type the follwing command.
 ```

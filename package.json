@@ -15,7 +15,6 @@
   "dependencies": {
     "steam-totp": "^2.1.0",
     "steam-user": "^3.27.1",
-    "steamcommunity": "^3.36.2",
-    "tf2": "^2.1.2"
+    "steamcommunity": "^3.36.2"
   }
 }

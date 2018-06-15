@@ -1,7 +1,7 @@
 {
-  "name": "steam-cases-for-keys",
+  "name": "steam-bot",
   "version": "1.0.0",
-  "description": "Steam bot ",
+  "description": "Simple steam bot built with node.",
   "main": "bot.js",
   "scripts": {
     "start": "bot.js"

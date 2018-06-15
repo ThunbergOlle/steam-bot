@@ -31,4 +31,5 @@ You must have Node.js installed before you can run anything with the node comman
 node bot.js
 ```
 6. That's it, enjoy!
+
 If you run into any issues, feel free to contact me or post an issue here on Github.

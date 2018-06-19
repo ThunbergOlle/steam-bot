@@ -13,6 +13,12 @@ Find the donwloaded folder, place it somewhere new and extract the files.
 
 Add your bot's steam account details & style the bot's profile. 
 
+If you would like your bot to trade without a trade hold, you can do that too.
+
+Just download [SDA ](https://github.com/Jessecar96/SteamDesktopAuthenticator/releases/tag/1.0.9 "SDA download page") and follow the steps to setup a new account.
+
+Disable encryption, locate the maFile folder and find the steamid for you bot account, open the file and search for shared_secret and identity_secret. Simply add those in the config and your bot can now login and use 2FA. 
+
 3. Open a command prompt & type the follwing command.
 ```
 cd C:\Users\WINDOWS_USER\YOUR_FOLDER_LOCATION
